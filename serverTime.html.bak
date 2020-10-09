@@ -9,6 +9,7 @@
         <div id="message"></div>
     
         <script>
+		submit();
         </script>
     </body>
 
